@@ -18,10 +18,12 @@ h3{
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
+    letter-spacing: 0.2em;
 }
 h1{
     color:rgb(255, 12, 52); pad
 }
 p{
     color: greenyellow;
+    word-spacing: 1em;
 }
