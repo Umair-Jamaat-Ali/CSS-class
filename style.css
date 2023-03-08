@@ -2,28 +2,35 @@ body{
     background-color: black;
     
 }
-h3{
+
+.color{
     color:brown;
-    background-color: aqua;
-    padding-left: 20px;
-    padding-top: 20px;
+    background-color: rgb(247, 244, 244);
+    padding-right: 20px;
+    padding-centre: 20px;
     font-size: x-large;
     font-style: italic;
     font-weight: bolder;
     font-variant: small-caps;
     text-transform: capitalize;
+    text-align: justify;
+    text-indent: 0%;
+    width: 100%;
+    text-shadow: -20px 0px 10px #faea0c23;
+    
+
 }
-.color{
-    color:blue; background-color: aqua;
-    padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-}
+
+
+
 h1{
-    color:rgb(255, 12, 52); pad
+    color:rgb(255, 12, 52);
+    text-align: justify;
+    margin: 2%;
 }
+
 p{
     color: greenyellow;
     word-spacing: 1em;
+    text-align: justify;
 }
